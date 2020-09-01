@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Doggos/static/css/main.a68f3ca8.chunk.css",
+    "main.js": "/Doggos/static/js/main.de4a4a6a.chunk.js",
+    "main.js.map": "/Doggos/static/js/main.de4a4a6a.chunk.js.map",
+    "runtime-main.js": "/Doggos/static/js/runtime-main.07d56dcf.js",
+    "runtime-main.js.map": "/Doggos/static/js/runtime-main.07d56dcf.js.map",
+    "static/js/2.c3d0eed7.chunk.js": "/Doggos/static/js/2.c3d0eed7.chunk.js",
+    "static/js/2.c3d0eed7.chunk.js.map": "/Doggos/static/js/2.c3d0eed7.chunk.js.map",
+    "index.html": "/Doggos/index.html",
+    "precache-manifest.7639633f2dcadb4d04f4d6fd9a1d7d59.js": "/Doggos/precache-manifest.7639633f2dcadb4d04f4d6fd9a1d7d59.js",
+    "service-worker.js": "/Doggos/service-worker.js",
+    "static/css/main.a68f3ca8.chunk.css.map": "/Doggos/static/css/main.a68f3ca8.chunk.css.map",
+    "static/js/2.c3d0eed7.chunk.js.LICENSE.txt": "/Doggos/static/js/2.c3d0eed7.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/Doggos/static/media/logo.6ff8b6da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d56dcf.js",
+    "static/js/2.c3d0eed7.chunk.js",
+    "static/css/main.a68f3ca8.chunk.css",
+    "static/js/main.de4a4a6a.chunk.js"
+  ]
+}
